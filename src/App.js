@@ -12,7 +12,7 @@ class App extends Component {
         <p>Herança</p>
         <p>{new Date().toLocaleString()}</p>
         <input></input>
-        <button>Pesquisar</button>
+        <button>Pesquisar alguma coisa</button>
         <StudentCallGrid name="William" ra="232334" />
         <button>Salvar</button>
       </div>
